@@ -59,11 +59,11 @@ const main = async () => {
   await browser.close();
 
   // this snippet will save the data to a JSON file
-  fs.writeFile("book.json", JSON.stringify(bookData), (err: any) => {
+  fs.writeFile("book.json", JSON.stringify(bookData, null, 2), (err: any) => {
     if (err) throw err;
     console.log("succesfully saved JSON!");
   });
-  ///// The json will show in one line, format document or use prettier to make it more readable. \\\\\
+  ///// The json will also be formatted with this. \\\\\
 };
 // This is needed to execute the above script
 main();
