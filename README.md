@@ -7,7 +7,7 @@
 ✱ A simple scraper demo where we scrape [`books.toscrape`](https://books.toscrape.com/). I have built this scraper to demonstrate how one would scrape a site.
 ✱ Pretty much any website without login and huuman verification can be scraped with a few changes
 
-<a href="https://github.com/Empty-sama/"><img title="Author" src="https://img.shields.io/badge/Author-Empty-sama-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/Empty-sama/"><img title="Author" src="https://img.shields.io/badge/Empty-sama-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/Empty-sama/Scrape-Demo"><img title="Stars" src="https://img.shields.io/github/stars/Empty-sama/Scrape-Demo?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/Empty-sama/Scrape-Demo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Empty-sama/Scrape-Demo?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/Empty-sama/Scrape-Demo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Empty-sama/Scrape-Demo?label=watchers&color=54aeff&style=flat-square" /></a> <br>
