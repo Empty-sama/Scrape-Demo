@@ -4,8 +4,8 @@
 <img src="https://telegra.ph/file/5642da3b07a5a9d0613b1.jpg" alt="nz" width="350"/>
 </p>
 
-✱ A simple scraper demo where we scrape [`books.toscrape`](https://books.toscrape.com/). I have built this scraper to demonstrate how one would scrape a site.
-✱ Pretty much any website without login and huuman verification can be scraped with a few changes
+✱ A simple scraper demo where we scrape [`books.toscrape`](https://books.toscrape.com/). I have built this scraper to demonstrate how one would scrape a site.<br/>
+✱ Pretty much any website without login and human verification can be scraped with a few changes
 
 <a href="https://github.com/Empty-sama/"><img title="Author" src="https://img.shields.io/badge/Empty-sama-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/Empty-sama/Scrape-Demo"><img title="Stars" src="https://img.shields.io/github/stars/Empty-sama/Scrape-Demo?color=54aeff&style=flat-square" /></a>
