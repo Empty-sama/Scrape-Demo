@@ -4,6 +4,8 @@
 <img src="[https://www.flaticon.com/free-icons/scraping](https://www.flaticon.com/free-icon/scraping_2742061?term=scraping&page=1&position=9&origin=tag&related_id=2742061)" alt="scraping icon" width="350"/>
 </p>
 
+<a href="https://www.flaticon.com/free-icons/scraping" title="scraping icons">Scraping icons created by Freepik - Flaticon</a>
+
 ✱ A simple scraper demo where we scrape [`books.toscrape`](https://books.toscrape.com/). I have built this scraper to demonstrate how one would scrape a site.<br/>
 ✱ Pretty much any website without login and human verification can be scraped with a few changes
 
