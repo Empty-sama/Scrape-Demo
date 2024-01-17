@@ -1,7 +1,7 @@
 # ✩Demo Scraper✩
 
 <p align="center">
-<img src="https://telegra.ph/file/5642da3b07a5a9d0613b1.jpg" alt="scraping icon" width="350"/>
+<img src="https://telegra.ph/file/0a9ac4ff5723e5ab427b8.jpg" alt="scraping icon" width="350"/>
 </p>
 
 ✱ A simple scraper demo where we scrape [`books.toscrape`](https://books.toscrape.com/). I have built this scraper to demonstrate how one would scrape a site.<br/>
