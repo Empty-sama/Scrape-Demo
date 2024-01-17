@@ -1,7 +1,7 @@
 # ✩Demo Scraper✩
 
 <p align="center">
-<img src="[https://www.flaticon.com/free-icons/scraping](https://www.flaticon.com/free-icon/scraping_2742061?term=scraping&page=1&position=9&origin=tag&related_id=2742061)" alt="scraping icon" width="350"/>
+<img src="https://telegra.ph/file/5642da3b07a5a9d0613b1.jpg" alt="scraping icon" width="350"/>
 </p>
 
 <a href="https://www.flaticon.com/free-icons/scraping" title="scraping icons">Scraping icons created by Freepik - Flaticon</a>
